@@ -1,0 +1,5 @@
+interface:
+  display_name: "CMS Debate Kit"
+  short_description: "Source-grounded Korean debate kit workflow"
+  default_prompt: "Use $cms-debate-kit to turn this book excerpt into a verified debate activity kit."
+
